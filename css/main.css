@@ -288,7 +288,7 @@
   
   /*BANNER*/
   .banner {
-    background-image: url("./img/banner-img.png");
+    /* background-image: url("./img/banner-img.png"); */
     background-size: cover;
     height: 100vh;
     display: flex;
